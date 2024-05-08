@@ -1,0 +1,21 @@
+0 : Adelaide
+1363 : Adelaide Sydney
+9191 : Adelaide Sydney Tokyo
+11324 : Adelaide Doha
+13412 : Adelaide Sydney Dubai
+15911 : Adelaide Doha Frankfurt
+
+0 : Dubai
+4845 : Dubai Frankfurt
+9432 : Dubai Frankfurt Doha
+12049 : Dubai Sydney
+13412 : Dubai Sydney Adelaide
+14177 : Dubai Frankfurt Tokyo
+
+0 : Tokyo
+7828 : Tokyo Sydney
+9191 : Tokyo Sydney Adelaide
+9332 : Tokyo Frankfurt
+13919 : Tokyo Frankfurt Doha
+14177 : Tokyo Frankfurt Dubai
+
